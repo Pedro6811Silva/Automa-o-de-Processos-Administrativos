@@ -7,4 +7,4 @@ Aqui você encontra a vitrine dos serviços oferecidos na área de **desenvolvim
 
 ## 🚀 O que fazemos
 Na CodeMotion, oferecemos serviços especializados em:
-- **Desenvolvimento Web** → Sites institucionais,
+- **Desenvolvimento Web e Software** 
